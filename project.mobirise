@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Tracks",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -354,7 +354,7 @@
           "title": "Crawly - \"Venom\" (Prod. Burda Meatz &amp; Origami)",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://soundcloud.com/smosh-fan-1-1/crawly-venom-prod-burda-meatz-origami\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDCLOUD<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">YOUTUBE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://soundcloud.com/smosh-fan-1-1/crawly-venom-prod-burda-meatz-origami\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDCLOUD<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.youtube.com/watch?v=6WL9nPfeNxI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://www.filedropper.com/crawly-venomprodburdameatzorigami\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -414,7 +414,7 @@
           "title": "Crawly - \"Friday\" (Prod. Burda Meatz &amp; Rujay)",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://soundcloud.com/smosh-fan-1-1/friday\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDCLOUD</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">YOUTUBE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://soundcloud.com/smosh-fan-1-1/friday\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDCLOUD</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.youtube.com/watch?v=gOfJMvjWC2A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://www.filedropper.com/crawly-fridayprodburdameatzrujay\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
           "_tags": [
             "Theme"
           ],
