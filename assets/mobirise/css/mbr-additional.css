@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 #ext_menu-0 .mbr-brand__name {
@@ -73,4 +74,25 @@
 }
 #msg-box5-a .mbr-article {
   color: #ffffff;
+}
+
+#ext_menu-b .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-b .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-b .mbr-navbar__hamburger {
+  color: #fac51c;
+}
+#testimonials1-d .mbr-reviews__text {
+  font-size: 32px;
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#testimonials1-d .mbr-reviews__author-name {
+  color: #ed0d0d;
 }
