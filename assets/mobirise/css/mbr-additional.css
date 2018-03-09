@@ -1,0 +1,30 @@
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #fac51c;
+}
+#ext_menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-2 .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-2 .mbr-navbar__hamburger {
+  color: #fac51c;
+}
+#slider-3 H1 {
+  color: #000000;
+}
+#slider-3 P {
+  color: #000000;
+}
