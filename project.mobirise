@@ -8,7 +8,8 @@
       "styling": {},
       "additionalSetColors": [
         "#ed0d0d",
-        "#e1ff0c"
+        "#e1ff0c",
+        "#181818"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -326,7 +327,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
+            "bgColor": "#181818",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -386,7 +387,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
+            "bgColor": "#181818",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
