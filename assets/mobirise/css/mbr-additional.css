@@ -1,3 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
 #ext_menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -9,6 +13,18 @@
 }
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #fac51c;
+}
+#header4-1 P {
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  color: #ffffff;
+}
+#header4-1 SPAN {
+  font-family: 'Oswald', sans-serif;
+  color: #ed0d0d;
+}
+#header4-1 B {
+  color: #ffffff;
 }
 #ext_menu-2 .mbr-brand__name {
   font-size: 16px;
@@ -27,4 +43,34 @@
 }
 #slider-3 P {
   color: #000000;
+}
+#ext_menu-4 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-4 .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-4 .mbr-navbar__hamburger {
+  color: #fac51c;
+}
+#msg-box5-9 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-9 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-a .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-a .mbr-article {
+  color: #ffffff;
 }
